@@ -1,14 +1,20 @@
 # WEATHER PULSE
 ## Description
-This is an interactive web application designed for users to forecast weather, be aware of weather summary and receive notifications for weather alerts.
+This is a single interactive web application designed for users to forecast weather, be aware of weather summary and receive notifications for weather alerts.
 ## Table of contents
-- [Requiremnte](#requirements)
+- [Core deliverables](#core-delivearbles)
 - [Key Functionalities](#key-functionalities)
 - [Technologies used](#technologies-used)
 - [Contributions](#contributions)
 - [Contact](#contact)
 
 ## Key Functionalities
+The key functionalities of thie web appliaction include:
+1. **Alert users of weather changes**
+2. **Display current weather data to users to users**
+3. **Determine weather by geographical coordinates**
+4. **Weather forecasts**
+
 ## Technologies used
 1. **HTML** -To create the web page
 2. **CSS** -To style the web page
