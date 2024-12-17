@@ -17,7 +17,7 @@ This is a single interactive web application designed for users to forecast weat
 ## Key Functionalities
 The key functionalities of thie web appliaction include:
 1. **Alert users of weather changes**
-2. **Display current weather data to users to users**
+2. **Display current weather data to users**
 3. **Determine weather by geographical coordinates**
 4. **Weather forecasts**
 
