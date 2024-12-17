@@ -8,6 +8,12 @@ This is a single interactive web application designed for users to forecast weat
 - [Contributions](#contributions)
 - [Contact](#contact)
 
+## Core deliverables
+1. **The app runs on a single page. There are no redirects or reloads.**
+2. **The project implements an instance of array iteration**
+3. **The project implements the use of an event listener**
+4. **The project accesses data from a public open weather API**
+
 ## Key Functionalities
 The key functionalities of thie web appliaction include:
 1. **Alert users of weather changes**
